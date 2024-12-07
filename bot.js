@@ -279,5 +279,5 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Login to Discord with your app's token
-client.login('MTMxMTc5NTgyMTQ0ODI2NTg1MQ.GhKnMZ.9E3A30Kdx8WiOn8_3AHHhdrsFK3coSwo6kSl-s'); // Replace with your actual bot token
+client.login('MTMxMTc5NTgyMTQ0ODI2NTg1MQ.Gb4D3i.gHTDgMQycW7CHfhsw5v2jUU-QDAMBh4sJgIWOY'); // Replace with your actual bot token
 
